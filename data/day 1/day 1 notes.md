@@ -15,5 +15,7 @@ Supply was dwindling
 ### 4) Can we trust it? What is the alternate story you could tell with that data?
 They're using 2012 and 2019 data, not enough data
 They didn't really provide enough supporting evidence to derive causality
+- a possible alternate story:
+Demand increate but not really supply?
 
 
