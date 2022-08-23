@@ -1,3 +1,3 @@
 # CSUF-ECON-320-ECONOMICS-CAUSALITY
 
-[SYLLABUS]()
+[SYLLABUS](https://github.com/jlursenbach?tab=repositories)
