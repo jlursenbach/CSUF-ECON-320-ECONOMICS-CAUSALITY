@@ -1,1 +1,2 @@
 # COURSE NOTES HERE
+[Day 1]()
